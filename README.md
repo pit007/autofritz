@@ -11,13 +11,13 @@ Usage:
 Preset call deflection on your Fritz!Box using the web interface. Configure one or more settings.
 After that you can use autofritz:
 
-# to query the current state of call deflection
+to query the current state of call deflection:
 ./autofritz.py
 
-# to turn off call all preconfigured settings for call deflection
+to turn off call all preconfigured settings for call deflection:
 ./autofritz.py -r
 
-# to turn on settings 0 and 1 of call deflection
+to turn on settings 0 and 1 of call deflection:
 ./autofritz.py -r0 -r1
 
 
