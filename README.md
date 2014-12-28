@@ -10,6 +10,7 @@ It uses web scraping parsing the HTML and Javascript output of the Fritz!Box.
 Usage
 -----
 Preset call deflection on your Fritz!Box using its web interface. Configure one or more settings.
+Set your Fritz!Box password in autofritz.py.
 After that you can use autofritz:
 
 to query the current state of call deflection:
