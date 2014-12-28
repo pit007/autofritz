@@ -26,3 +26,5 @@ Python 2.7
 lxml
 requests
 
+autofritz makes use of jsparser.py from the PyNarcissus package.
+
