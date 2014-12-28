@@ -12,7 +12,7 @@ from cStringIO import StringIO
 from lxml import etree, html
 from jsparser import parse
 
-PASSWORD = 'hauptstr. 9'
+PASSWORD = '***'
 FRITZBOXURL = 'http://fritz.box'
 
 def login ():
